@@ -46,3 +46,4 @@ Curated list of 80+ S&P 500 and major tech companies with their verified cloud p
 ---
 
 Built by [@vdutts7](https://x.com/vdutts7) • [GitHub](https://github.com/vdutts7)
+
